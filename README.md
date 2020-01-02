@@ -1,2 +1,3 @@
 # react-handy-hooks
-Handy react hooks
+
+Hooks that I sometimes use or may use in my projects.
